@@ -1,0 +1,173 @@
+/* CSS Document */
+
+body {
+	background-color: #2e2b22;
+	margin-left: 60px;
+	margin-top: 30px;
+	margin-right: 60px;
+	margin-bottom: 30px;
+}
+
+.companyname{
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size:30px;
+font-weight:400;
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.menulink{
+font-family:Trebuchet MS, "Times New Roman", Times, serif;
+font-size:20px;
+font-weight:400;
+text-decoration:none;
+color:#FFFFFF;
+}
+.maintext-4{
+font-family:Trebuchet MS, "Times New Roman", Times, serif;
+font-size:15px;
+font-weight:bold;
+text-decoration:none;
+color:#FFFFFF;
+}
+.maintext-4-italic{
+font-family:Trebuchet MS, "Times New Roman", Times, serif;
+font-size:15px;
+font-weight:bold;
+text-decoration:none;
+color:#FFFFFF;
+font-style:italic;
+}
+.menulink:hover{
+font-family:Trebuchet MS, "Times New Roman", Times, serif;
+font-size:20px;
+font-weight:400;
+text-decoration:none;
+color:#bfa561;
+}
+
+.quotes{
+font-family:Trebuchet MS, "Times New Roman", Times, serif;
+font-size:17px;
+font-weight:500;
+font-style:italic;
+color:#FFFFFF;
+}
+
+
+.background-5 {
+	background-color: #bba874;
+}
+
+.heading{
+font-family: Tahoma;
+font-size:20px;
+font-weight:400;
+text-decoration:none;
+color:#bfa561;
+}
+
+.heading2{
+font-family: Tahoma;
+font-size:18px;
+font-weight:400;
+text-decoration:none;
+color:#d5c290;
+}
+
+.heading2-italic{
+font-family: Tahoma;
+font-size:18px;
+font-weight:400;
+text-decoration:none;
+color:#d5c290;
+font-style:italic;
+}
+
+.maintext{
+font-family:Arial, Helvetica, sans-serif;
+color:#ffffff;
+font-size:15px;
+line-height:20px;
+}
+a.maintext{
+font-family:Arial, Helvetica, sans-serif;
+color:#ffffff;
+font-size:15px;
+line-height:20px;
+text-decoration:none;
+}
+a.maintext:hover{
+font-family:Arial, Helvetica, sans-serif;
+color:#a98f4b;
+font-size:15px;
+line-height:20px;
+text-decoration:underline;
+}
+a.maintext2{
+font-family:Arial, Helvetica, sans-serif;
+color:#a98f4b;
+font-size:15px;
+line-height:20px;
+text-decoration:underline;
+}
+a.maintext2:hover{
+font-family:Arial, Helvetica, sans-serif;
+color:#ffffff;
+font-size:15px;
+line-height:20px;
+text-decoration:blink;
+}
+.moreabout{
+font-family:Arial, Helvetica, sans-serif;
+color:#bba874;
+font-size:14px;
+text-decoration:none;
+}
+
+.maintext-2{
+font-family:Arial, Helvetica, sans-serif;
+color:#bba874;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+}
+
+.maintext-2-italic{
+font-family:Arial, Helvetica, sans-serif;
+color:#bba874;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+font-style:italic;
+}
+
+.maintext-3{
+font-family: Arial, Helvetica, sans-serif;
+color:#a98f4b;
+font-size:13px;
+text-decoration:none;
+font-weight:bold;
+}
+.maintext-3-italic{
+font-family: Arial, Helvetica, sans-serif;
+color:#a98f4b;
+font-size:13px;
+text-decoration:none;
+font-weight:bold;
+font-style:italic;
+}
+a.readmore{
+font-family: Arial, Helvetica, sans-serif;
+color:#a98f4b;
+font-size:12px;
+text-decoration:underline;
+font-weight:500;
+}
+a.readmore:hover{
+font-family: Arial, Helvetica, sans-serif;
+color:#ffffff;
+font-size:12px;
+text-decoration:blink;
+font-weight:600;
+}
